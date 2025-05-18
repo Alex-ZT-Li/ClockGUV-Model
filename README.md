@@ -2,10 +2,15 @@
 
 ## Requirements
 Code requires MATLAB version R2021a or greater with packages:
+
 (1 of 5) Image Processing Toolbox, version 11.3 or greater
+
 (2 of 5) Curve Fitting Toolbox, version 3.5.13 or greater
+
 (3 of 5) Signal Processing Toolbox, version 8.6 or greater
+
 (4 of 5) Statistics and Machine Learning Toolbox, version 12.1 or greater.
+
 (5 of 5) Computer Vision Toolbox, version 10.0 or greater.
 
 (Note: not all dependencies may be strictly required but were used in the testing environment)
