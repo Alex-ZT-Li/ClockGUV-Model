@@ -14,7 +14,7 @@ Code requires MATLAB version R2021a or greater with packages:
 
 (5 of 5) Computer Vision Toolbox, version 10.0 or greater.
 
-(Note: not all dependencies may be strictly required but were used in the testing environment)
+(Note: Not all dependencies may be strictly required but were used in the testing environment. Tested using MATLAB version R2021a)
 
 ## Description
 Models the behavior of the post-translation oscillator (PTO) from the circadian clock of the cyanobacterium, Synechococcus elongatus, inside a giant unilamellar vesicle (GUV). The model simulates the encapsulation of the PTO (comprised of three Kai clock proteins) inside various GUVs sizes.
