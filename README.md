@@ -1,6 +1,10 @@
 # ClockGUV-Model README
 Authors: Alexander Zhan Tu Li and Anand Bala Subramaniam
 
+## Description
+Models the behavior of the post-translation oscillator (PTO) from the circadian clock of the cyanobacterium, Synechococcus elongatus, inside a giant unilamellar vesicle (GUV). The model simulates the encapsulation of the PTO (comprised of three Kai clock proteins) inside various GUVs sizes.
+There are two versions of this model, one simulating the environment within a GUV used in our experiments (Clock Model - GUV Model) and one simulating the behavior of a transcription-translation feedback loop (TTFL) system (Clock Model - TTFL Model). Clock behavior is determined based on experimental data with lookup tables incorporated.  
+
 ## Requirements
 Code requires MATLAB version R2021a or greater with packages:
 
@@ -15,10 +19,6 @@ Code requires MATLAB version R2021a or greater with packages:
 (5 of 5) Computer Vision Toolbox, version 10.0 or greater.
 
 (Note: Not all dependencies may be strictly required but were used in the testing environment. Tested using MATLAB version R2021a)
-
-## Description
-Models the behavior of the post-translation oscillator (PTO) from the circadian clock of the cyanobacterium, Synechococcus elongatus, inside a giant unilamellar vesicle (GUV). The model simulates the encapsulation of the PTO (comprised of three Kai clock proteins) inside various GUVs sizes.
-There are two versions of this model, one simulating the environment within a GUV used in our experiments (Clock Model - GUV Model) and one simulating the behavior of a transcription-translation feedback loop (TTFL) system (Clock Model - TTFL Model). Clock behavior is determined based on experimental data with lookup tables incorporated.  
 
 ## Instructions
 1. Run either "ClockModel_GUVModel.m" or "ClockModel_TTFLModel.m" from their relevant folders. Requires the subfolder "Amplitude Simulation" and "Period Simulation" as this contains data necessary for the code to run.
