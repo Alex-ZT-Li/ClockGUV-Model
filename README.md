@@ -23,8 +23,13 @@ Code requires MATLAB version R2021a or greater with packages:
 
 
 ## Instructions
-1. Run either "ClockModel_GUVModel.m" or "ClockModel_TTFLModel.m" from their relevant folders. Requires the subfolder "Amplitude Simulation" and "Period Simulation" as this contains data necessary for the code to run.
+1. Run either "ClockModel_GUVModel.m" or "ClockModel_TTFLModel.m" from their relevant folders. The included subfolders "Amplitude Simulation" and "Period Simulation" are necessary dependencies as they contains data needed for the code to run.
 2. Model results will be saved to a "Model_Results.mat" file in the same directory. A sample result file is included.
+
+## Demo
+Simply follow the instructions to run the model. No external files necessary. 
+
+Expected Demo Runtime = <5 minutes
 
 ## Additional Notes
 The model .m files contain modifiable input parameters in the beginning of the code.
