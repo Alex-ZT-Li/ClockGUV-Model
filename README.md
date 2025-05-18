@@ -16,7 +16,7 @@ Code requires MATLAB version R2021a or greater with packages:
 (Note: not all dependencies may be strictly required but were used in the testing environment)
 
 ## Description
-Models the behavior of the post-translation oscillator (PTO) from the circadian clock of the cyanobacteria, Synechococcus elongatus, inside a giant unilamellar vesicle (GUV). The model simulates the encapsulation of the PTO (comprised of three Kai clock proteins) inside various GUVs sizes.
+Models the behavior of the post-translation oscillator (PTO) from the circadian clock of the cyanobacterium, Synechococcus elongatus, inside a giant unilamellar vesicle (GUV). The model simulates the encapsulation of the PTO (comprised of three Kai clock proteins) inside various GUVs sizes.
 There are two versions of this model, one simulating the environment within a GUV used in our experiments (Clock Model - GUV Model) and one simulating the behavior of a transcription-translation feedback loop (TTFL) system (Clock Model - TTFL Model). Clock behavior is determined based on experimental data with lookup tables incorporated.  
 
 ## Instructions
