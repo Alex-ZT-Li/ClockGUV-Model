@@ -18,7 +18,9 @@ Code requires MATLAB version R2021a or greater with packages:
 
 (5 of 5) Computer Vision Toolbox, version 10.0 or greater.
 
-(Note: Not all dependencies may be strictly required but were used in the testing environment. Tested using MATLAB version R2021a)
+(Tested on MATLAB version R2021a and Windows 10 & 11 Build 26100)
+(Note: Not all dependencies may be strictly required but were used in the testing environment)
+
 
 ## Instructions
 1. Run either "ClockModel_GUVModel.m" or "ClockModel_TTFLModel.m" from their relevant folders. Requires the subfolder "Amplitude Simulation" and "Period Simulation" as this contains data necessary for the code to run.
