@@ -1,4 +1,5 @@
-# ClockGUV-Model
+# ClockGUV-Model README
+Authors: Alexander Zhan Tu Li and Anand Bala Subramaniam
 
 ## Requirements
 Code requires MATLAB version R2021a or greater with packages:
