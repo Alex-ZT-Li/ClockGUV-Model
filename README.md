@@ -24,4 +24,4 @@ There are two versions of this model, one simulating the environment within a GU
 2. Model results will be saved to a "Model_Results.mat" file in the same directory. A sample result file is included.
 
 ## Additional Notes
-The model .m files contain modifiable input parameters in the beginning.
+The model .m files contain modifiable input parameters in the beginning of the code.
